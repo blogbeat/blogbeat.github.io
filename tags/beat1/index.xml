@@ -1,28 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>beat1 on My blog beats</title>
+    <title>beat1 on My blog beats!!</title>
     <link>https://blogbeat.github.io/tags/beat1/</link>
-    <description>Recent content in beat1 on My blog beats</description>
+    <description>Recent content in beat1 on My blog beats!!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://blogbeat.github.io/tags/beat1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blogbeat.github.io/tags/beat1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello</title>
-      <link>https://blogbeat.github.io/post/hello/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Shortcut tests</title>
+      <link>https://blogbeat.github.io/post/hello3/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blogbeat.github.io/post/hello/</guid>
-      <description>Jo this is it</description>
+      <guid>https://blogbeat.github.io/post/hello3/</guid>
+      <description>tweet Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
+&amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017  Figure   Steve Francia    gist  Youtube   </description>
     </item>
     
     <item>
-      <title>Hello you</title>
+      <title>Post in section Tech</title>
       <link>https://blogbeat.github.io/post/hello2/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://blogbeat.github.io/post/hello2/</guid>
-      <description>Jo this is it really</description>
+      <description>Jo this is it really!</description>
+    </item>
+    
+    <item>
+      <title>Post in Section Mind</title>
+      <link>https://blogbeat.github.io/post/hello/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blogbeat.github.io/post/hello/</guid>
+      <description>Jo this is it now</description>
     </item>
     
   </channel>
