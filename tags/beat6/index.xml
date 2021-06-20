@@ -6,7 +6,16 @@
     <description>Recent content in beat6 on My blog beats!!!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blogbeat.github.io/tags/beat6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blogbeat.github.io/tags/beat6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post in section Tech2</title>
+      <link>https://blogbeat.github.io/post/testpost/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blogbeat.github.io/post/testpost/</guid>
+      <description>Jo this is it really!</description>
+    </item>
+    
     <item>
       <title>Shortcut tests</title>
       <link>https://blogbeat.github.io/post/hello3/</link>
