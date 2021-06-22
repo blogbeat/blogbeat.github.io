@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blogbeat.github.io/categories/</loc>
-    <lastmod>2021-06-20T20:01:09+02:00</lastmod>
+    <lastmod>2021-06-22T18:43:51+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -15,8 +15,11 @@
                 href="https://blogbeat.github.io/categories/"
                 />
   </url><url>
+    <loc>https://blogbeat.github.io/post/heute/</loc>
+    <lastmod>2021-06-22T18:43:51+02:00</lastmod>
+  </url><url>
     <loc>https://blogbeat.github.io/</loc>
-    <lastmod>2021-06-20T20:01:09+02:00</lastmod>
+    <lastmod>2021-06-22T18:43:51+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -29,16 +32,16 @@
                 />
   </url><url>
     <loc>https://blogbeat.github.io/post/</loc>
-    <lastmod>2021-06-20T20:01:09+02:00</lastmod>
+    <lastmod>2021-06-22T18:43:51+02:00</lastmod>
   </url><url>
     <loc>https://blogbeat.github.io/tags/tag1/</loc>
-    <lastmod>2021-06-20T20:01:09+02:00</lastmod>
+    <lastmod>2021-06-22T18:43:51+02:00</lastmod>
   </url><url>
     <loc>https://blogbeat.github.io/tags/tag2/</loc>
-    <lastmod>2021-06-20T20:01:09+02:00</lastmod>
+    <lastmod>2021-06-22T18:43:51+02:00</lastmod>
   </url><url>
     <loc>https://blogbeat.github.io/tags/</loc>
-    <lastmod>2021-06-20T20:01:09+02:00</lastmod>
+    <lastmod>2021-06-22T18:43:51+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -51,7 +54,7 @@
                 />
   </url><url>
     <loc>https://blogbeat.github.io/categories/tech/</loc>
-    <lastmod>2021-06-20T20:01:09+02:00</lastmod>
+    <lastmod>2021-06-22T18:43:51+02:00</lastmod>
   </url><url>
     <loc>https://blogbeat.github.io/post/variables/</loc>
     <lastmod>2021-06-20T20:01:09+02:00</lastmod>
